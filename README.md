@@ -15,7 +15,7 @@ Fascinated by everything that's CS related :desktop_computer:
 
 ### Fun fact :zap:
 I'm a huge lover of EDM music, so much that I tried to make music under the Nobel nickname :musical_score:  
-If you want, you can check my works [here](https://soundcloud.com/itsnobel)
+If you want, you can check my works [here](https://soundcloud.com/itsnobel/tracks)
 
 
 ### Concats :mailbox_with_mail:
