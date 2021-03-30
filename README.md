@@ -10,7 +10,7 @@ Mainly interested in web development and programming :man_technologist:
 Fascinated by everything that's CS related :desktop_computer:  
 
 
-![Massimiliano Baldo's github stats](https://github-readme-stats.vercel.app/api?username=massimilianobaldo&show_icons=true&hide_border=true)
+![Massimiliano Baldo's github stats](https://github-readme-stats.vercel.app/api?username=massimilianobaldo&show_icons=true&theme=react&count_private=true)
 
 
 ### Fun fact :zap:
