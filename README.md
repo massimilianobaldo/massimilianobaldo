@@ -1,8 +1,8 @@
 <h1 align="center"> Hello, I'm Massimiliano Baldo 👋 </h1>
 
-<p align="center">
-  <a href="https://baldomassimiliano.com"> Website </a>🌐
-</p>
+<h2 align="center">
+  <a href="https://baldomassimiliano.com">Website </a>🌐
+</h2>
 
 ### Bio :closed_book:
 Internet of Things student at [University of Udine](https://www.uniud.it/it) :school:  
