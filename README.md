@@ -1,24 +1,33 @@
-<h1 align="center"> Hello, I'm Massimiliano Baldo 👋 </h1>
+ <div align="center">
+  <h3>
+    <i>
+      &#8220;Talk is cheap. Show me the code.&#8221;
+    </i>
+  </h3>
+  
+  <p style="position:relative; float:right;">
+    Linus Torvalds
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=massimilianobaldo&show_icons=true&theme=react&count_private=true" />
+  </p>
 
-<h3 align="center">
-  <a href="https://baldomassimiliano.com">Website </a>🌐
-</h3>
-
-### Bio :closed_book:
-Internet of Things student at [University of Udine](https://www.uniud.it/it) :school:  
-Mainly interested in web development and programming :man_technologist:  
-Fascinated by everything that's CS related :desktop_computer:  
-
-
-![Massimiliano Baldo's github stats](https://github-readme-stats.vercel.app/api?username=massimilianobaldo&show_icons=true&theme=react&count_private=true)
-
-
-### Fun fact :zap:
-I'm a huge lover of EDM music, so much that I tried to make music under the Nobel nickname :musical_score:  
-If you want, you can check my works [here](https://soundcloud.com/itsnobel/tracks)
-
-
-### Concats :mailbox_with_mail:
-[![Facebook Badge](https://img.shields.io/badge/-facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/massimiliano.baldo.3)](https://www.facebook.com/massimiliano.baldo.3)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-D7008A?style=flat&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/massimiliano_baldo/)](https://www.instagram.com/massimiliano_baldo/)
-[![Hackerrank_Badge](https://img.shields.io/badge/-HackerRank-%232ec866?logo=hackerrank&logoColor=white&https://www.hackerrank.com/maxbaldo)](https://www.hackerrank.com/maxbaldo)
+  <p>
+    <a href="https://github.com/massimilianobaldo/">
+      <img src="https://img.shields.io/badge/-GitHub-171515?style=flat&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/massimiliano.baldo.3">
+      <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/massimiliano_baldo/">
+      <img src="https://img.shields.io/badge/-Instagram-D7008A?style=flat&logo=Instagram&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/massimiliano-baldo/">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://soundcloud.com/itsnobel">
+      <img src="https://img.shields.io/badge/-SoundCloud-FE5000?style=flat&logo=soundcloud&logoColor=white" />
+    </a>
+  </p>
+</div>
